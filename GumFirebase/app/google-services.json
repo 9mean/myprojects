@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "415973945564",
+    "firebase_url": "https://aloma-bba29.firebaseio.com",
+    "project_id": "aloma-bba29",
+    "storage_bucket": "aloma-bba29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415973945564:android:9cb07282e315a9e7038419",
+        "android_client_info": {
+          "package_name": "com.example.gumfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415973945564-5pdsqh8s34jk50vdpifnh0nd398j1ltb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gumfirebase",
+            "certificate_hash": "00a7d5e223a06980c54a200963eb0bb5d066c42b"
+          }
+        },
+        {
+          "client_id": "415973945564-f1j4eppjrsgtf3va2l7skqgb9t03kopm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwzUKPyQmldW6O8_JIBBKnyKBdCYrA2Rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415973945564-f1j4eppjrsgtf3va2l7skqgb9t03kopm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

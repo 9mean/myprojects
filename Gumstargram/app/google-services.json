@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "313016859035",
+    "firebase_url": "https://gumstargramf16.firebaseio.com",
+    "project_id": "gumstargramf16",
+    "storage_bucket": "gumstargramf16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313016859035:android:73285c44b732197de7893e",
+        "android_client_info": {
+          "package_name": "com.example.gumstargram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313016859035-r7edumhu8hi63bgtcmqsgvlkkdua35t7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gumstargram",
+            "certificate_hash": "00a7d5e223a06980c54a200963eb0bb5d066c42b"
+          }
+        },
+        {
+          "client_id": "313016859035-f4t6ln2b886db31c57r83894sqfoqnm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSYqdXQblAWrtK_f7rIDN13wlAbsN794s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313016859035-f4t6ln2b886db31c57r83894sqfoqnm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
